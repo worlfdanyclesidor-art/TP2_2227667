@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab19a0aa-d286-4f92-895f-3edcda1859e5" name="Changes" comment="Ajout de la description et des fonctionnalités">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/tp2-2227667.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/diagramme-classes.md" afterDir="false" />
+    <list default="true" id="ab19a0aa-d286-4f92-895f-3edcda1859e5" name="Changes" comment="Ajout du diagramme de classes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/diagramme-classes.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/diagramme-classes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,23 +30,23 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.1218272430635043" />
-      <entry key="MS500" value="2.276031158185117" />
-      <entry key="S2" value="4.290813522517137" />
-      <entry key="S5" value="5.202099506483644" />
-      <entry key="S10" value="5.578766248399122" />
-      <entry key="S30" value="5.854289015235226" />
-      <entry key="S60" value="5.926459438238186" />
-      <entry key="M2" value="5.964960846320138" />
-      <entry key="M5" value="6.26947244234263" />
-      <entry key="M10" value="7.500670669079592" />
-      <entry key="M15" value="8.625206028056168" />
-      <entry key="M30" value="10.584596047461616" />
-      <entry key="H1" value="12.056531129698026" />
-      <entry key="H2" value="12.96085716963729" />
-      <entry key="H4" value="13.462384965364393" />
-      <entry key="D1" value="13.907783416872709" />
-      <entry key="W1" value="13.986760726719197" />
+      <entry key="MS100" value="1.0000000174942645" />
+      <entry key="MS500" value="1.0477730620348429" />
+      <entry key="S2" value="2.8797406129440963" />
+      <entry key="S5" value="5.415157687209348" />
+      <entry key="S10" value="6.9282590767492485" />
+      <entry key="S30" value="8.235370275405012" />
+      <entry key="S60" value="8.607557895396774" />
+      <entry key="M2" value="8.803040407937836" />
+      <entry key="M5" value="9.201706342998937" />
+      <entry key="M10" value="10.461461522791671" />
+      <entry key="M15" value="11.595845906978063" />
+      <entry key="M30" value="13.567113730874897" />
+      <entry key="H1" value="15.046737827404145" />
+      <entry key="H2" value="15.955637334644477" />
+      <entry key="H4" value="16.459685432097285" />
+      <entry key="D1" value="16.907320230281147" />
+      <entry key="W1" value="16.9866942212029" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -72,23 +68,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0468650464939682" />
-      <entry key="MS500" value="2.201954633320406" />
-      <entry key="S2" value="4.252234253988691" />
-      <entry key="S5" value="5.183906401341208" />
-      <entry key="S10" value="5.569142512241386" />
-      <entry key="S30" value="5.850956917906776" />
-      <entry key="S60" value="5.924777403595975" />
-      <entry key="M2" value="5.964115407847018" />
-      <entry key="M5" value="6.2691101639699705" />
-      <entry key="M10" value="7.500439204451258" />
-      <entry key="M15" value="8.625021008600694" />
-      <entry key="M30" value="10.584476765707771" />
-      <entry key="H1" value="12.056461429356295" />
-      <entry key="H2" value="12.960819228822215" />
-      <entry key="H4" value="13.462365137877816" />
-      <entry key="D1" value="13.907779985426478" />
-      <entry key="W1" value="13.986760233298874" />
+      <entry key="MS100" value="0.9526380130633306" />
+      <entry key="MS500" value="1.036464666424646" />
+      <entry key="S2" value="2.8592595846882642" />
+      <entry key="S5" value="5.397507167947123" />
+      <entry key="S10" value="6.91669132631274" />
+      <entry key="S30" value="8.230737154911443" />
+      <entry key="S60" value="8.605131621490031" />
+      <entry key="M2" value="8.801798429495621" />
+      <entry key="M5" value="9.20117964927848" />
+      <entry key="M10" value="10.461147004920218" />
+      <entry key="M15" value="11.595605322178562" />
+      <entry key="M30" value="13.566966540564243" />
+      <entry key="H1" value="15.046654129368395" />
+      <entry key="H2" value="15.955592381638906" />
+      <entry key="H4" value="16.45966209478062" />
+      <entry key="D1" value="16.907316213305755" />
+      <entry key="W1" value="16.986693644121363" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -151,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794084041617</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ajout du diagramme de classes">
+      <option name="closed" value="true" />
+      <created>1794413375170</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794413375170</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +164,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialisation du projet" />
     <MESSAGE value="Ajout de la description et des fonctionnalités" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout de la description et des fonctionnalités" />
+    <MESSAGE value="Ajout du diagramme de classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout du diagramme de classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
