@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab19a0aa-d286-4f92-895f-3edcda1859e5" name="Changes" comment="Ajout de la description et des fonctionnalités">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tp2-2227667.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/diagramme-classes.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;worlfdanyclesidor-art&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/worlfdanyclesidor-art/TP2_2227667.git&quot;,
+    &quot;accountId&quot;: &quot;981d7e27-2b7f-45dc-aa81-3a099754bca4&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1218272430635043" />
+      <entry key="MS500" value="2.276031158185117" />
+      <entry key="S2" value="4.290813522517137" />
+      <entry key="S5" value="5.202099506483644" />
+      <entry key="S10" value="5.578766248399122" />
+      <entry key="S30" value="5.854289015235226" />
+      <entry key="S60" value="5.926459438238186" />
+      <entry key="M2" value="5.964960846320138" />
+      <entry key="M5" value="6.26947244234263" />
+      <entry key="M10" value="7.500670669079592" />
+      <entry key="M15" value="8.625206028056168" />
+      <entry key="M30" value="10.584596047461616" />
+      <entry key="H1" value="12.056531129698026" />
+      <entry key="H2" value="12.96085716963729" />
+      <entry key="H4" value="13.462384965364393" />
+      <entry key="D1" value="13.907783416872709" />
+      <entry key="W1" value="13.986760726719197" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0468650464939682" />
+      <entry key="MS500" value="2.201954633320406" />
+      <entry key="S2" value="4.252234253988691" />
+      <entry key="S5" value="5.183906401341208" />
+      <entry key="S10" value="5.569142512241386" />
+      <entry key="S30" value="5.850956917906776" />
+      <entry key="S60" value="5.924777403595975" />
+      <entry key="M2" value="5.964115407847018" />
+      <entry key="M5" value="6.2691101639699705" />
+      <entry key="M10" value="7.500439204451258" />
+      <entry key="M15" value="8.625021008600694" />
+      <entry key="M30" value="10.584476765707771" />
+      <entry key="H1" value="12.056461429356295" />
+      <entry key="H2" value="12.960819228822215" />
+      <entry key="H4" value="13.462365137877816" />
+      <entry key="D1" value="13.907779985426478" />
+      <entry key="W1" value="13.986760233298874" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LYabqXGWFeKkkO1dfk3uJzccBo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/worlf/PycharmProjects/TP2_2227667&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab19a0aa-d286-4f92-895f-3edcda1859e5" name="Changes" comment="" />
+      <created>1793633530237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793633530237</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initialisation du projet">
+      <option name="closed" value="true" />
+      <created>1794082389761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794082389761</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ajout de la description et des fonctionnalités">
+      <option name="closed" value="true" />
+      <created>1794084041617</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794084041617</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initialisation du projet" />
+    <MESSAGE value="Ajout de la description et des fonctionnalités" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout de la description et des fonctionnalités" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
