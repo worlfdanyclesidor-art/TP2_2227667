@@ -1,12 +1,12 @@
 # TP2_2227667
 
-Application de bureau pour aider un répartiteur à gérer des chauffeurs et leurs livraisons.
-Elle permettra de créer des livraisons, de les attribuer aux chauffeurs et de suivre leur progression.
+Application de bureau pour planifier le transport de marchandises. Elle permettra de gérer les commandes, les chauffeurs et les camions, puis de suivre les missions de transport.
 
 ## Fonctionnalités prévues
 
-- Ajouter et modifier des chauffeurs.
-- Créer des livraisons avec un destinataire, une adresse, une date prévue et une priorité.
-- Attribuer les livraisons aux chauffeurs disponibles.
-- Suivre l’état des livraisons : à assigner, assignée, en livraison, livrée ou en échec.
-- Sauvegarder les informations dans une base de données SQL.
+- Gérer les chauffeurs et les camions.
+- Créer des commandes de transport avec les adresses de départ et d’arrivée.
+- Ajouter des marchandises et leurs quantités à une commande.
+- Planifier une mission avec un chauffeur et un camion.
+- Vérifier la disponibilité du chauffeur et du camion pendant la période prévue.
+- Suivre l’état des commandes et des missions.
