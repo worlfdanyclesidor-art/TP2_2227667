@@ -10,3 +10,11 @@ Application de bureau pour planifier le transport de marchandises. Elle permettr
 - Planifier une mission avec un chauffeur et un camion.
 - Vérifier la disponibilité du chauffeur et du camion pendant la période prévue.
 - Suivre l’état des commandes et des missions.
+
+## Architecture prévue
+
+- `domain` : contient les classes métier et les règles de gestion.
+- `application` : coordonne les opérations de planification.
+- `infrastructure` : gérera la sauvegarde des données.
+- `presentation` : contiendra l’interface graphique.
+- `domain/mixins` : contiendra les comportements partagés, comme le suivi des dates.

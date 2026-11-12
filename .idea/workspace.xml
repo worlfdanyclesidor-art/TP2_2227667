@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab19a0aa-d286-4f92-895f-3edcda1859e5" name="Changes" comment="Ajout des maquettes de l’application">
+    <list default="true" id="ab19a0aa-d286-4f92-895f-3edcda1859e5" name="Changes" comment="Modification README">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,23 +30,23 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000174942645" />
-      <entry key="MS500" value="1.0477730620348429" />
-      <entry key="S2" value="2.8797406129440963" />
-      <entry key="S5" value="5.415157687209348" />
-      <entry key="S10" value="6.9282590767492485" />
-      <entry key="S30" value="8.235370275405012" />
-      <entry key="S60" value="8.607557895396774" />
-      <entry key="M2" value="8.803040407937836" />
-      <entry key="M5" value="9.201706342998937" />
-      <entry key="M10" value="10.461461522791671" />
-      <entry key="M15" value="11.595845906978063" />
-      <entry key="M30" value="13.567113730874897" />
-      <entry key="H1" value="15.046737827404145" />
-      <entry key="H2" value="15.955637334644477" />
-      <entry key="H4" value="16.459685432097285" />
-      <entry key="D1" value="16.907320230281147" />
-      <entry key="W1" value="16.9866942212029" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000001400639884" />
+      <entry key="S10" value="1.0005269216816952" />
+      <entry key="S30" value="1.1280862217237266" />
+      <entry key="S60" value="1.506071624154794" />
+      <entry key="M2" value="2.0060218968747794" />
+      <entry key="M5" value="2.51934960341182" />
+      <entry key="M10" value="2.7431930353199663" />
+      <entry key="M15" value="2.825622135254598" />
+      <entry key="M30" value="2.970587837843179" />
+      <entry key="H1" value="3.503087011611793" />
+      <entry key="H2" value="4.635704118842279" />
+      <entry key="H4" value="6.076700181620196" />
+      <entry key="D1" value="15.735854947529289" />
+      <entry key="W1" value="23.24684572540201" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -67,23 +68,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9526380130633306" />
-      <entry key="MS500" value="1.036464666424646" />
-      <entry key="S2" value="2.8592595846882642" />
-      <entry key="S5" value="5.397507167947123" />
-      <entry key="S10" value="6.91669132631274" />
-      <entry key="S30" value="8.230737154911443" />
-      <entry key="S60" value="8.605131621490031" />
-      <entry key="M2" value="8.801798429495621" />
-      <entry key="M5" value="9.20117964927848" />
-      <entry key="M10" value="10.461147004920218" />
-      <entry key="M15" value="11.595605322178562" />
-      <entry key="M30" value="13.566966540564243" />
-      <entry key="H1" value="15.046654129368395" />
-      <entry key="H2" value="15.955592381638906" />
-      <entry key="H4" value="16.45966209478062" />
-      <entry key="D1" value="16.907316213305755" />
-      <entry key="W1" value="16.986693644121363" />
+      <entry key="MS100" value="0.6506709277209668" />
+      <entry key="MS500" value="0.9176398823113651" />
+      <entry key="S2" value="0.9787416503974358" />
+      <entry key="S5" value="0.9914419463197625" />
+      <entry key="S10" value="0.99623798705803" />
+      <entry key="S30" value="1.1266018590347362" />
+      <entry key="S60" value="1.505250774831315" />
+      <entry key="M2" value="2.0055594261193694" />
+      <entry key="M5" value="2.5191432210399958" />
+      <entry key="M10" value="2.7430851482147984" />
+      <entry key="M15" value="2.825547489717463" />
+      <entry key="M30" value="2.970484370236852" />
+      <entry key="H1" value="3.502766553382067" />
+      <entry key="H2" value="4.635239706426142" />
+      <entry key="H4" value="6.076300086086986" />
+      <entry key="D1" value="15.735747915455391" />
+      <entry key="W1" value="23.246828969987366" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -95,26 +96,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/worlf/PycharmProjects/TP2_2227667&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/worlf/PycharmProjects/TP2_2227667",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -170,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794493572307</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Modification README">
+      <option name="closed" value="true" />
+      <created>1794494052492</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1794494052492</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +193,8 @@
     <MESSAGE value="Ajout du diagramme de classes" />
     <MESSAGE value="Correction du diagramme de classes" />
     <MESSAGE value="Ajout des maquettes de l’application" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout des maquettes de l’application" />
+    <MESSAGE value="Modification README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modification README" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
