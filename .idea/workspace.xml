@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab19a0aa-d286-4f92-895f-3edcda1859e5" name="Changes" comment="Ajout du diagramme de classes">
+    <list default="true" id="ab19a0aa-d286-4f92-895f-3edcda1859e5" name="Changes" comment="Correction du diagramme de classes">
+      <change afterPath="$PROJECT_DIR$/docs/maquettes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/diagramme-classes.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/diagramme-classes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794413375170</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Correction du diagramme de classes">
+      <option name="closed" value="true" />
+      <created>1794415006127</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1794415006127</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +173,8 @@
     <MESSAGE value="Initialisation du projet" />
     <MESSAGE value="Ajout de la description et des fonctionnalités" />
     <MESSAGE value="Ajout du diagramme de classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout du diagramme de classes" />
+    <MESSAGE value="Correction du diagramme de classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction du diagramme de classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
