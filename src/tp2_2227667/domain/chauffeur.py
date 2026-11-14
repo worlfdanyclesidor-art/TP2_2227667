@@ -1,5 +1,7 @@
 from dataclasses import dataclass
 
+from tp2_2227667.domain.exceptions import DonneesInvalidesError
+
 
 @dataclass
 class Chauffeur:
@@ -14,10 +16,12 @@ class Chauffeur:
     def __post_init__(self) -> None:
         """Valide les champs du chauffeur après son initialisation."""
         if self.identifiant <= 0:
-            raise ValueError("L'identifiant doit être positif.")
+            raise DonneesInvalidesError("L'identifiant doit être positif.")
         if not self.nom.strip():
-            raise ValueError("Le nom ne peut pas être vide.")
+            raise DonneesInvalidesError("Le nom ne peut pas être vide.")
         if not self.prenom.strip():
-            raise ValueError("Le prénom ne peut pas être vide.")
+            raise DonneesInvalidesError("Le prénom ne peut pas être vide.")
         if not self.numero_permis.strip():
-            raise ValueError("Le numéro de permis ne peut pas être vide.")
+            raise DonneesInvalidesError(
+                "Le numéro de permis ne peut pas être vide."
+            )
