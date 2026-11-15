@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab19a0aa-d286-4f92-895f-3edcda1859e5" name="Changes" comment="Modification README">
+    <list default="true" id="ab19a0aa-d286-4f92-895f-3edcda1859e5" name="Changes" comment="Ajout de la classe Camion et de ses validations">
+      <change afterPath="$PROJECT_DIR$/src/tp2_2227667/domain/marchandise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,22 +38,22 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000001400639884" />
-      <entry key="S10" value="1.0005269216816952" />
-      <entry key="S30" value="1.1280862217237266" />
-      <entry key="S60" value="1.506071624154794" />
-      <entry key="M2" value="2.0060218968747794" />
-      <entry key="M5" value="2.51934960341182" />
-      <entry key="M10" value="2.7431930353199663" />
-      <entry key="M15" value="2.825622135254598" />
-      <entry key="M30" value="2.970587837843179" />
-      <entry key="H1" value="3.503087011611793" />
-      <entry key="H2" value="4.635704118842279" />
-      <entry key="H4" value="6.076700181620196" />
-      <entry key="D1" value="15.735854947529289" />
-      <entry key="W1" value="23.24684572540201" />
+      <entry key="MS500" value="1.0000070193810702" />
+      <entry key="S2" value="1.095980573482736" />
+      <entry key="S5" value="1.9547020912137614" />
+      <entry key="S10" value="3.302307173789365" />
+      <entry key="S30" value="5.321080461798223" />
+      <entry key="S60" value="6.086075748667408" />
+      <entry key="M2" value="6.52261735804634" />
+      <entry key="M5" value="6.803935144634238" />
+      <entry key="M10" value="6.915425258545145" />
+      <entry key="M15" value="7.034866655320254" />
+      <entry key="M30" value="7.677527025757562" />
+      <entry key="H1" value="8.86846330162279" />
+      <entry key="H2" value="10.061765574334897" />
+      <entry key="H4" value="10.91551990020047" />
+      <entry key="D1" value="16.908118914319616" />
+      <entry key="W1" value="36.403279354785916" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -68,23 +75,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.6506709277209668" />
-      <entry key="MS500" value="0.9176398823113651" />
-      <entry key="S2" value="0.9787416503974358" />
-      <entry key="S5" value="0.9914419463197625" />
-      <entry key="S10" value="0.99623798705803" />
-      <entry key="S30" value="1.1266018590347362" />
-      <entry key="S60" value="1.505250774831315" />
-      <entry key="M2" value="2.0055594261193694" />
-      <entry key="M5" value="2.5191432210399958" />
-      <entry key="M10" value="2.7430851482147984" />
-      <entry key="M15" value="2.825547489717463" />
-      <entry key="M30" value="2.970484370236852" />
-      <entry key="H1" value="3.502766553382067" />
-      <entry key="H2" value="4.635239706426142" />
-      <entry key="H4" value="6.076300086086986" />
-      <entry key="D1" value="15.735747915455391" />
-      <entry key="W1" value="23.246828969987366" />
+      <entry key="MS100" value="4.7915527954669915E-21" />
+      <entry key="MS500" value="9.283158619022823E-5" />
+      <entry key="S2" value="0.18163004576418654" />
+      <entry key="S5" value="1.3037194169352706" />
+      <entry key="S10" value="2.8817137472982175" />
+      <entry key="S30" value="5.150422513907374" />
+      <entry key="S60" value="5.99611486765541" />
+      <entry key="M2" value="6.476404710819523" />
+      <entry key="M5" value="6.785144170663002" />
+      <entry key="M10" value="6.905965645670041" />
+      <entry key="M15" value="7.028499141076307" />
+      <entry key="M30" value="7.674163388127129" />
+      <entry key="H1" value="8.86661245322367" />
+      <entry key="H2" value="10.060755260739805" />
+      <entry key="H4" value="10.914984366582901" />
+      <entry key="D1" value="16.90800039456567" />
+      <entry key="W1" value="36.40325213817699" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -181,7 +188,55 @@
       <option name="project" value="LOCAL" />
       <updated>1794494052492</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Modification README Ajout architerture prevue">
+      <option name="closed" value="true" />
+      <created>1794507536857</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1794507536857</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ajout de la structure initiale des paquets">
+      <option name="closed" value="true" />
+      <created>1794513237486</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1794513237486</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ajout de la classe Chauffeur">
+      <option name="closed" value="true" />
+      <created>1794687230342</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1794687230342</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ajout de la validation du chauffeur">
+      <option name="closed" value="true" />
+      <created>1794688233459</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1794688233459</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Ajout de la validation et exception Chauffeur">
+      <option name="closed" value="true" />
+      <created>1794692266844</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1794692266844</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Ajout de la classe Camion et de ses validations">
+      <option name="closed" value="true" />
+      <created>1794761566789</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1794761566789</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +249,13 @@
     <MESSAGE value="Correction du diagramme de classes" />
     <MESSAGE value="Ajout des maquettes de l’application" />
     <MESSAGE value="Modification README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modification README" />
+    <MESSAGE value="Modification README Ajout architerture prevue" />
+    <MESSAGE value="Ajout de la structure initiale des paquets" />
+    <MESSAGE value="Ajout de la classe Chauffeur" />
+    <MESSAGE value="Ajout de la validation du chauffeur" />
+    <MESSAGE value="Ajout de la validation et exception Chauffeur" />
+    <MESSAGE value="Ajout de la classe Camion et de ses validations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout de la classe Camion et de ses validations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
